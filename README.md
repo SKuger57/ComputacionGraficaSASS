@@ -1,4 +1,4 @@
-![bola de energia 2](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/7b9637e3-36c5-4f58-9585-7642546a8436)# ComputacionGraficaSASS.
+# ComputacionGraficaSASS.
 
 ## Entrega 2 Bola de Energia
 
@@ -12,6 +12,7 @@
 ![bola de enrgia 3](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/ad5e8161-b51d-4ef5-9df4-afa243eccac4)
 
 GIF:
+
 ![ezgif com-video-to-gif](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/adf0db37-9ff5-4e0a-a84a-026eb225eb85)
 
 
