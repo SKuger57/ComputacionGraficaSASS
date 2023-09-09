@@ -2,18 +2,21 @@
 
 ## Entrega 2 Bola de Energia
 
-
-![bola energia 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/785f2936-e61d-4ed9-bc90-7d5a282c48a2)
-
-
-![bola de energia 2](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/7740a539-bbdc-47a1-9f67-577228aa9b9b)
+![bola energia 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/6ab92b50-bae7-4e4b-828c-8e8c9e9ce164)
 
 
-![bola de enrgia 3](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/ad5e8161-b51d-4ef5-9df4-afa243eccac4)
+![bola de enrgia 3](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/a7a3e612-fb80-4d90-9b5c-694f7e9ee621)
+
+
+![bola de energia 4](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/5045377a-06c9-421c-85f4-549913acfcf0)
+
+
+![bola de energia 2](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/6db6bc68-0316-4f8e-a842-86888f2897db)
+
 
 GIF:
 
-![ezgif com-video-to-gif](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/adf0db37-9ff5-4e0a-a84a-026eb225eb85)
+![ezgif com-video-to-gif ](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/783ff124-aa7f-4de5-b948-fdb56d383528)
 
 
 
