@@ -2,6 +2,12 @@
 
 ## Entrega 2 Bola de Energia
 
+Rutaa de acceso:
+
+![ruta de acceso organizada](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/a397dc0d-c1c9-4bba-b49e-f9e54c5f5f3e)
+
+Imagenes:
+
 ![bola energia 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/6ab92b50-bae7-4e4b-828c-8e8c9e9ce164)
 
 
