@@ -25,6 +25,16 @@ GIF:
 ![ezgif com-video-to-gif ](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/783ff124-aa7f-4de5-b948-fdb56d383528)
 
 
+Escalado en Grises y Referente:
+
+![Escalado de Grises](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/ad07b9d3-2a63-40a3-bf14-fb7875e0d3d1)
+
+
+
+![Efecto y Referencia](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/0cfeed9d-d195-4288-a403-0a121bf4a764)
+
+
+
 
 ## Entrega 1 Tornado
 
