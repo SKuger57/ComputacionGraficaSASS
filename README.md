@@ -34,6 +34,8 @@ Escalado en Grises y Referente:
 ![Efecto y Referencia](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/0cfeed9d-d195-4288-a403-0a121bf4a764)
 
 
+![Barras de Grises](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/44d11fe8-6a5d-42e1-a8c5-c90f1be2688f)
+
 
 
 ## Entrega 1 Tornado
