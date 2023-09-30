@@ -32,6 +32,11 @@ https://youtu.be/RNw-TfTWKUk
 
 Abraham Peláez Trujillo
 
+Distorsión
+
+![Distorsion Shader](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/cf7c4f70-6e85-43c9-b3de-b4debcfdb350)
+
+https://youtu.be/_5i99oyLUWw
 
 ## Entrega 2 Bola de Energia
 
