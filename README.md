@@ -1,5 +1,38 @@
 # ComputacionGraficaSASS.
 
+## Entrega 3 Shaders
+
+Sofia Rivera
+
+Texturas de Mascaras Multicanal
+
+![Piramide shader](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/2a23c8b0-63a2-413c-a8ac-acd89333cad7)
+
+https://youtu.be/fPOXDgWtil8
+
+Mascara Procedural Radial
+
+![Mascacara Procedural](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/3960649c-8f32-421d-a975-bb1884fb03c8)
+
+https://youtu.be/r0kZ0UotoF8
+
+Samuel Kruger Muriel
+
+Movimiento del Humo
+
+![image](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/ba4fa084-94f3-407c-92cf-386181cd200e)
+
+https://youtu.be/59yGpA_pOuI
+
+Erósion
+
+![image](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/910d9ea3-6e0c-4929-a830-4a6922634249)
+
+https://youtu.be/RNw-TfTWKUk
+
+Abraham Peláez Trujillo
+
+
 ## Entrega 2 Bola de Energia
 
 Ruta de acceso:
