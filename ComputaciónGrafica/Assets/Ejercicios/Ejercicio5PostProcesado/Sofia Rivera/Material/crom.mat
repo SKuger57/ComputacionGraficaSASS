@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_blur
-  m_Shader: {fileID: -6465566751694194690, guid: cdc8e5bd0f4b54b40b467410e329ff4b,
+  m_Name: crom
+  m_Shader: {fileID: -6465566751694194690, guid: 24dc7f379b8d5e34fa4a11cbddd5802b,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,14 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BiltTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _BlitTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,9 +38,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ApertureSmoothness: 24.1
-    - _ApertureStart: 10.37
-    - _FocalDistance: 58
-    - _PixelOffset: 29.86
-    m_Colors: []
+    - _AbsolutePixelOffset: 26.77
+    - _Float: 169.08
+    m_Colors:
+    - _RelativeChannelOffset: {r: 1, g: -1.34, b: -0.22, a: 0}
+    - _Vector3: {r: 0.1, g: 0.3, b: 0.5, a: 0}
   m_BuildTextureStacks: []
