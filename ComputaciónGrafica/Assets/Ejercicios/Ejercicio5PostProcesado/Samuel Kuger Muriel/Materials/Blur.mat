@@ -7,9 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_blur
-  m_Shader: {fileID: -6465566751694194690, guid: cdc8e5bd0f4b54b40b467410e329ff4b,
-    type: 3}
+  m_Name: Blur
+  m_Shader: {fileID: -6465566751694194690, guid: 4d69eeb04d802cc4984fc2b2bb3148ac, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,10 +23,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BiltTexture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BlitTexture:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -46,9 +41,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _ApertureSmoothness: 24.1
-    - _ApertureStart: 10.37
-    - _FocalDistance: 58
-    - _PixelOffset: 29.86
+    - _Apperture: 0
+    - _Distance: 0
+    - _Offset: 0
+    - _Smoothness: 0
     m_Colors: []
   m_BuildTextureStacks: []
