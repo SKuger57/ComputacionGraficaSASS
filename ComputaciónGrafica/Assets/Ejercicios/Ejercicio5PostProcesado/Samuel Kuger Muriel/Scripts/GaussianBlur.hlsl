@@ -1,7 +1,7 @@
 #ifndef GAUSSIAN_BLUR_INCLUDED
 #define GAUSSIAN_BLUR_INCLUDED
 
-void GaussianBlur3x3_float(UnityTexture2D Tex, UnitySamplerState SS, float2 UV, float2 TexelSize, out float4 Result)
+void GaussianBlur_float(UnityTexture2D Tex, UnitySamplerState SS, float2 UV, float2 TexelSize, out float4 Result)
 {
     const float3 gaussian = float3(0.0625,0.125,0.25);
     const float3 off = float3(0,1,-1);
