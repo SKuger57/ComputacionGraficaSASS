@@ -12,6 +12,18 @@
  Enlace al video:
  https://youtu.be/fc8gbENkSM8
 
+ Imagenes:
+
+- Especulares
+ 
+![especular 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/d6a714ac-0478-4339-b1cb-1d2218edc186)
+
+![especular 2](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/a89f6108-7a44-42a9-975c-976e696d38e8)
+
+- Espuma
+
+![Espuma](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/1e2aaaa4-397d-4829-9440-284f3b16d75a)
+
 
 ## Entrega 3 Shaders
 
