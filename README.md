@@ -1,5 +1,9 @@
 # ComputacionGraficaSASS.
 
+## Entrega 5 PostProcesado
+
+[Video Samuel Kuger](https://youtu.be/9o-u7KpiD5E)
+
 ## Entrega 3 Shaders
 
 Sofia Rivera
@@ -16,7 +20,7 @@ Mascara Procedural Radial
 
 https://youtu.be/r0kZ0UotoF8
 
-Samuel Kruger Muriel
+Samuel Kuger Muriel
 
 Movimiento del Humo
 
