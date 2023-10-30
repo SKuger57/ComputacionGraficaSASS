@@ -14,6 +14,18 @@
 
  Imagenes:
 
+ - Refracción
+
+ ![refracción 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/21e96e35-201d-49f5-a1dd-4fd80f7fd03b)
+
+ ![refracción 2](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/4d5e7ce2-6c67-431a-8770-c08a927f5d06)
+
+
+- Color Segun la profundidad
+
+   ![ComputaciónGrafica - agua - Windows, Mac, Linux - Unity 2022 3 5f1 _DX11_ 2023-10-29 20-54-56 (1)](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/30157679-bcef-4935-8d90-c35e409b72b9)
+
+
 - Especulares
  
 ![especular 1](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/d6a714ac-0478-4339-b1cb-1d2218edc186)
