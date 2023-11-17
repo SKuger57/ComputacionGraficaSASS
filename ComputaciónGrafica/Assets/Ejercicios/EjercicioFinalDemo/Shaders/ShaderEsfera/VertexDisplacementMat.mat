@@ -51,11 +51,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisplacementStrength: 0
+    - _DisplacementStrength: 32.91
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SphereMaskHardness: 0
-    - _SphereMaskRadius: 0
+    - _SphereMaskHardness: 0.9
+    - _SphereMaskRadius: 3.59
     m_Colors:
-    - _HitPos: {r: 0, g: 0, b: 0, a: 0}
+    - _HitPos: {r: 11.49, g: 2.84, b: 2.03, a: 0}
   m_BuildTextureStacks: []
