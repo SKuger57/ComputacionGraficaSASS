@@ -1,5 +1,22 @@
 # ComputacionGraficaSASS.
 
+## Proyecto Final Demo
+
+Sofia Rivera
+
+Samuel Kruger Muriel
+
+Abraham Peláez Trujillo
+
+Para mi shader me base en varios efectos que hay en la industria del entretenimiento digital:
+
+![image](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/dbda191a-f4ac-48ac-94d6-474358e26d48)
+
+[[![image](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/9eb368b2-1c03-4e51-9937-0457f2de43fc)](https://tenor.com/es/view/avengers-endgame-marvel-thanos-disintegration-disintegrated-gif-17514639)](https://tenor.com/es/view/avengers-endgame-marvel-thanos-disintegration-disintegrated-gif-17514639)
+
+![image](https://github.com/SKuger57/ComputacionGraficaSASS/assets/78061780/c5665d2e-892e-4685-a96f-e70d6bc2e919)
+
+
 ## Entrega 5 PostProcesado
 
 [Video Samuel Kuger](https://youtu.be/9o-u7KpiD5E)
