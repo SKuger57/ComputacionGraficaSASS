@@ -6,8 +6,8 @@ using TMPro;
 
 public class changebrilloagua : MonoBehaviour
 {
-    [SerializeField] Slider slider;
-    [SerializeField] public Material material;
+    [SerializeField] Slider sliBrillo;
+    [SerializeField] public Material brillo;
     //private ParticleSystemRenderer particleRenderer;
 
 
@@ -19,6 +19,6 @@ public class changebrilloagua : MonoBehaviour
     private void Update()
     {
         // Multiply the HDR material's brightness property by the multiplier
-       material.SetFloat("_brightness", (slider.value));
+        brillo.SetFloat("_DisolveEdgeThickness", (sliBrillo.value));
     }
 }

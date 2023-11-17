@@ -39,7 +39,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _DepthOffset: 0.4
-    - _Disolve: -0.2
+    - _Disolve: 1.2
     - _DisolveEdgeThickness: 0.05
     - _DisolveStartHeight: 0
     - _DisplacementStrength: 0.1

@@ -6,28 +6,22 @@ using TMPro;
 
 public class lenghtagua : MonoBehaviour
 {
-    [SerializeField] Slider slider;
-    [SerializeField] ParticleSystem particleSystem;
-   
-   
+    [SerializeField] Slider sliVelocidad;
+    [SerializeField] public Material Velocidad;
+    //private ParticleSystemRenderer particleRenderer;
+
 
     private void Start()
     {
-       
-        slider.onValueChanged.AddListener(OnDurationSliderValueChanged);
+        //particleRenderer = GetComponent<ParticleSystemRenderer>();
     }
 
-   
-    private void OnDurationSliderValueChanged(float value)
+    private void Update()
     {
-        particleSystem.Stop();
-        var mainModule = particleSystem.main;
-        mainModule.startLifetime = value;
-        mainModule.startSpeed = 0.5f+Mathf.Abs(value-2.8f);
-        particleSystem.Play();
+        // Multiply the HDR material's brightness property by the multiplier
+        Velocidad.SetFloat("_Speed", (sliVelocidad.value));
     }
 }
-
 
 
 
